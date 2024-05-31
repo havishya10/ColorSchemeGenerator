@@ -58,7 +58,7 @@ button {
   background-size: cover;
   height: 100%;
   padding-top: 100px;
-  flex-grow: 1;
+ 
 }
 .color {
   width: 100%;
@@ -80,8 +80,9 @@ button {
 }
 @media (max-width: 490px) {
   .color {
-    padding: 1.3em;
-    font-size: 0.8rem;
+    padding: 1.4em;
+    font-size: 0.7rem;
+    
   }
   .color-container {
     padding-top: 160px;
