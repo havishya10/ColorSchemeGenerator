@@ -56,4 +56,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - [The Color API](https://www.thecolorapi.com/) for providing the color scheme data.
-- Google Fonts for the fonts used in the project.
+- [Scrimba](https://v2.scrimba.com/home) for providing valuable educational resources and project inspiration.
