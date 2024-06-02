@@ -9,7 +9,6 @@ This Color Scheme Generator is a web application that allows users to generate a
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Demo
@@ -49,27 +48,6 @@ To set up the project locally, follow these steps:
 2. Select a base color using the color picker.
 3. Choose a color scheme from the dropdown menu.
 4. Click the "Get color scheme" button to generate and display the color scheme.
-
-## Contributing
-
-Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or create a pull request.
-
-### Steps to Contribute
-
-1. Fork the repository.
-2. Create a new branch:
-    ```sh
-    git checkout -b feature-branch
-    ```
-3. Make your changes and commit them:
-    ```sh
-    git commit -m "Description of changes"
-    ```
-4. Push to the branch:
-    ```sh
-    git push origin feature-branch
-    ```
-5. Open a pull request with a detailed description of your changes.
 
 ## License
 
